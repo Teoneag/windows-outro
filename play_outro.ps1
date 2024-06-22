@@ -7,4 +7,4 @@ public class Sound {
 }
 "@
 
-[Sound]::PlaySound("D:\desktop\outro\outro.wav", [IntPtr]::Zero, 0x20000)
+[Sound]::PlaySound("D:\desktop\windows-outro\outro.wav", [IntPtr]::Zero, 0x20000)

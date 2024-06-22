@@ -1,7 +1,7 @@
 echo off
 title Outro
 
-start powershell -WindowStyle Hidden -Command "D:\desktop\outro\play_outro.ps1"
+start powershell -WindowStyle Hidden -Command "D:\desktop\windows-outro\play_outro.ps1"
 set /a STARTTIME = 11,00
 
 cls
